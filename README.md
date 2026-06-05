@@ -22,7 +22,7 @@
 There exists a projection $C$ such that:
 $$|C(S)| \ll |S|$$
 $$EF(C(S)) \approx EF(S)$$
-[cite_start]*Where $EF$ represents Emergent Efficiency[cite: 16, 17, 18, 19].*
+[cite_start]Where $EF$ represents Emergent Efficiency[cite: 16, 17, 18, 19].
 
 ### 3. Local Optimality
 [cite_start]An algorithm operating on $C(S)$ rather than $S$ is optimal within the class of resource-bounded algorithms[cite: 21].
