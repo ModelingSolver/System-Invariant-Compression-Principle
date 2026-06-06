@@ -2,7 +2,7 @@
 
 ## Toward a Formal Theorem
 
-### The Informal Theorem ‚Äî First Attempt
+### The Informal Theorem ‚A First Attempt
 * **Universal Invariance**: Every complex system contains structural invariants across multiple scales.
 * **Information Efficiency**: Compressing these invariants is more informationally efficient than processing raw data.
 * **Algorithmic Advantage**: An algorithm that operates on invariants rather than data converges faster, consumes fewer resources, and generalizes better.
