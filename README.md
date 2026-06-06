@@ -26,3 +26,5 @@ Where $EF$ represents Emergent Efficiency.
 
 ### 3. Local Optimality
 An algorithm operating on $C(S)$ rather than $S$ is optimal within the class of resource-bounded algorithms.
+
+![alt text](<Capture d'écran 2026-06-06 025435.png>)
