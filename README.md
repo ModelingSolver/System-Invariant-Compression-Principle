@@ -1,5 +1,7 @@
 # Structural Invariant Compression Principle (SICP)
 
+https://www.youtube.com/watch?v=gO-VW6mQpcA
+
 ## Toward a Formal Theorem
 
 ### The Informal Theorem ‚A First Attempt
